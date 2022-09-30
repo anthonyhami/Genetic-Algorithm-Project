@@ -1,4 +1,4 @@
-# SWP
+# Genetic Algorithm Project
 Cell classifiers are synthetic decision-making biological circuits that may be built in the wet lab and delivered to cells. 
 Inside, they classify a cell state as healthy or cancerous and release a drug in the latter case. 
 During the Praktikum I have design a population of liver cancer cell classifiers that may together distinguish
